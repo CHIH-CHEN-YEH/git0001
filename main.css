@@ -1,5 +1,5 @@
-.body{
+.header{
     height: 100vh;
-    background: url(1.jpg);
+    background: url(./1.jpg);
     object-fit: contain;
 }
